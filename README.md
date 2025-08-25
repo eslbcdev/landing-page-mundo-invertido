@@ -9,7 +9,7 @@ Este projeto foi desenvolvido durante o evento Semana Front-end, com o objetivo 
 
 ## 📸 Screenshot / Demonstração
 
-https://github.com/eslbcdev/landing-page-mundo-invertido/main/stranger-things.mp4
+https://github.com/user-attachments/assets/6039fb62-6599-4180-a1cf-cb4a6b2c795b
 
 ## ✨ Sobre o Projeto
 A aplicação é uma landing page que convida o usuário a "entrar no Mundo Invertido". O projeto foi construído ao vivo em duas lives, explorando desde a estruturação semântica do HTML até a manipulação de dados em tempo real com Firebase, passando por estilizações avançadas e animações com CSS.
@@ -67,7 +67,7 @@ This project was developed during the Front-end Week event, aiming to create an 
 
 ## 📸 Screenshot / Demonstration
 
-https://github.com/eslbcdev/landing-page-mundo-invertido/main/stranger-things.mp4
+https://github.com/user-attachments/assets/6039fb62-6599-4180-a1cf-cb4a6b2c795b
 
 ## ✨ About the Project
 The application is a landing page that invites the user to "enter the Upside Down." The project was built live over two sessions, exploring everything from semantic HTML structure to real-time data handling with Firebase, including advanced styling and animations with CSS.
